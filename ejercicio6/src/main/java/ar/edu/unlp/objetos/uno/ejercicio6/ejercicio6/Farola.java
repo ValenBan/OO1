@@ -52,8 +52,6 @@ public class Farola {
 		}
 	}
 
-
-
 	/*
 	* Retorna true si la farola está encendida.
 	*/
